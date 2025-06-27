@@ -37,8 +37,7 @@ Task_05/
 
 ## 🖼️ Screenshots
 
-![Weather App Screenshot](![task5](https://github.com/user-attachments/assets/166d89aa-13d2-4d03-83d9-3a6da981569d)
-)
+https://github.com/user-attachments/assets/166d89aa-13d2-4d03-83d9-3a6da981569d
 
 ---
 
