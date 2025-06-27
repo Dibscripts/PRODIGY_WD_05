@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Weather App</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Weather App</h1>
+        <form id="locationForm" class="input-group">
+            <input type="text" id="locationInput" placeholder="Enter city or location">
+            <button type="submit">Search</button>
+            <button type="button" id="resetBtn" style="background:#f44336;">Reset</button>
+        </form>
+        <button id="geoBtn" style="width:100%;margin-top:1em;">Use My Location</button>
+        <div id="weather" class="weather"></div>
+        <div id="error" class="error"></div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
